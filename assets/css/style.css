@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+}
+
+img.resize {
+    width:200px;
+    height:40px;
+  }
